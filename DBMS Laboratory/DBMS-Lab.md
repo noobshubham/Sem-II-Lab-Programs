@@ -147,11 +147,13 @@ Award (Match_id, Player_id)
 
 # Enrollment
 Consider the following database of student enrollment in courses and books adopted for each course. 
-- STUDENT (regno#: string, name: string, major: string, bdate: date) 
-- COURSE (course#: int, cname: string, dept: string) 
-- TEXT (book_ISBN#: int, book_title: string, publisher: string, author: string) 
-- ENROLL (regno#: string, course#: int, sem: int, marks: int) 
-- BOOK_ADOPTION (course#: int, sem: int, book_ISBN: int)
+```
+STUDENT (regno#: string, name: string, major: string, bdate: date) 
+COURSE (course#: int, cname: string, dept: string) 
+TEXT (book_ISBN#: int, book_title: string, publisher: string, author: string) 
+ENROLL (regno#: string, course#: int, sem: int, marks: int) 
+BOOK_ADOPTION (course#: int, sem: int, book_ISBN: int)
+```
 
 <details>
     <summary>Execute the following Queries</summary>
