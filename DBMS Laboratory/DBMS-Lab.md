@@ -4,8 +4,8 @@ DBMS Lab Programs
 a database containing database difficulties
 
 
-# College Database
-Create the following tables with properly specifying Primary Keys, Foreign Keys & Solce the following Queries.
+# College
+Create the following tables with properly specifying Primary Keys, Foreign Keys & Solve the following Queries.
 -------------------------------------
 - BRANCH (Branchid, Branchname, HOD) 
 - STUDENT (USN, Name, Address, Branchid, sem) 
@@ -13,7 +13,9 @@ Create the following tables with properly specifying Primary Keys, Foreign Keys 
 - AUTHOR (Authorid, Authorname, Country, age) 
 - BORROW (USN, Bookid, Borrowed_Date)
 
-Execute the following Queries:
+<details>
+    <summary>Execute the following Queries:</summary>
+
 <ol type="i">
 <li>List the details of Students who are all studying in the 2nd sem MCA.</li>
 <li>List the students who have not borrowed any books.</li>
@@ -24,6 +26,9 @@ Execute the following Queries:
 <li>Display the Book names in descending order of their names.</li>
 <li>List the details of students who borrowed books which are all published by the same publisher.</li>
 </ol>
+
+</details>
+
 
 Consider the following Schema:
 -----------------------
@@ -42,7 +47,7 @@ Execute the following Queries:
 </ol>
 
 
-# Cricket Databse
+# Cricket
 Design an ER-Diagram for the following scenario, Convert the same into a relational model and then solve the following Queries:
 -------------------
 ER-Diagram:
@@ -99,7 +104,7 @@ Execute the following Queries:
 </ol>
 
 
-# Student Enrollment
+# Enrollment
 6. Consider the following database of student enrollment in courses and books adopted for each course. 
 ----------------
 - STUDENT (regno#: string, name: string, major: string, bdate: date) 
