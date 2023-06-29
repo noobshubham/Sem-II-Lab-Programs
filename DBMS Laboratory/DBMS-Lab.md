@@ -55,16 +55,27 @@ Consider the following Schema:
 <br>
 
 # Cricket
-Design an ER-Diagram for the following scenario, Convert the same into a relational model and then solve the following Queries:
+Design an ER-Diagram for the following scenario, Convert the same into a relational model and then solve the following Queries: 
+- Consider a Cricket Tournament “ABC CUP” organized by an organization. 
+- In the tournament there are many teams are contesting each having a Teamid, Team_Name, City, a coach. Each team is uniquely identified by using Teamid.
+- A team can have many Players and a captain. Each player is uniquely identified by Playerid, having a Name, and multiple phone numbers, age. 
+- A player represents only one team. There are many Stadiums to conduct matches. Each stadium is
+identified using Stadium_id, having a stadium_name, Address (involves city, area_name, pincode).
+- A team can play many matches. Each match played between the two teams in the scheduled date and time in the predefined Stadium. Each match is identified uniquely by using Match_id. Eachmatch won by any of the one team that also wants to record in the database. 
+- For each match man_of_the match award given to a player.
 
-ER-Diagram:
-•	Tournament (Tournament_id, Tournament_name, Organizer)
-•	Team (Team_id, Team_name, City, Coach)
-•	Player (Player_id, Name, Age)
-•	Phone (Player_id, Phone_number)
-•	Stadium (Stadium_id, Stadium_name, Address)
-•	Match (Match_id, Team_id_1, Team_id_2, Date, Time, Winner_id)
-•	Award (Match_id, Player_id)
+<details>
+    <summary>Hint: ER-Diagram</summary>
+• Tournament (Tournament_id, Tournament_name, Organizer)
+• Team (Team_id, Team_name, City, Coach)
+• Player (Player_id, Name, Age)
+• Phone (Player_id, Phone_number)
+• Stadium (Stadium_id, Stadium_name, Address)
+• Match (Match_id, Team_id_1, Team_id_2, Date, Time, Winner_id)
+• Award (Match_id, Player_id)
+</details>
+
+
 <details>
     <summary>Execute the following Queries</summary>
 
