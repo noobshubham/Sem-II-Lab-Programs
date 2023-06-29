@@ -1,3 +1,3 @@
 # Sem-II-Lab-Programs
 
-[DBMS Laboratory](DBMS-Lab.md)
+[DBMS Laboratory](DBMS Laboratory/DBMS-Lab.md)
