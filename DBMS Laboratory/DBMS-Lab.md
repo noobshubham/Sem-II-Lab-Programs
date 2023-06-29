@@ -66,6 +66,7 @@ identified using Stadium_id, having a stadium_name, Address (involves city, area
 
 <details>
     <summary>Hint: ER-Diagram</summary>
+
 • Tournament (Tournament_id, Tournament_name, Organizer)
 • Team (Team_id, Team_name, City, Coach)
 • Player (Player_id, Name, Age)
