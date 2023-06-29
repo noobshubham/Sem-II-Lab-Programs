@@ -55,7 +55,7 @@ Consider the following Schema:
 
 # Cricket
 Design an ER-Diagram for the following scenario, Convert the same into a relational model and then solve the following Queries:
--------------------
+
 ER-Diagram:
 •	Tournament (Tournament_id, Tournament_name, Organizer)
 •	Team (Team_id, Team_name, City, Coach)
