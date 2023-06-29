@@ -66,14 +66,16 @@ identified using Stadium_id, having a stadium_name, Address (involves city, area
 
 <details>
     <summary>Hint: ER-Diagram</summary>
-
-• Tournament (Tournament_id, Tournament_name, Organizer)
-• Team (Team_id, Team_name, City, Coach)
-• Player (Player_id, Name, Age)
-• Phone (Player_id, Phone_number)
-• Stadium (Stadium_id, Stadium_name, Address)
-• Match (Match_id, Team_id_1, Team_id_2, Date, Time, Winner_id)
-• Award (Match_id, Player_id)
+    
+```
+Tournament (Tournament_id, Tournament_name, Organizer)
+Team (Team_id, Team_name, City, Coach)
+Player (Player_id, Name, Age)
+Phone (Player_id, Phone_number)
+Stadium (Stadium_id, Stadium_name, Address)
+Match (Match_id, Team_id_1, Team_id_2, Date, Time, Winner_id)
+Award (Match_id, Player_id)
+```
 
 </details>
 
