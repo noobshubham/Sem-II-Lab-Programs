@@ -9,13 +9,9 @@ a database containing database difficulties
 Create the following tables with properly specifying Primary Keys, Foreign Keys & Solve the following Queries.
 ```
 BRANCH (Branchid, Branchname, HOD)
-
 STUDENT (USN, Name, Address, Branchid, sem)
-
 BOOK (Bookid, Bookname, Authorid, Publisher, Branchid)
-
 AUTHOR (Authorid, Authorname, Country, age)
-
 BORROW (USN, Bookid, Borrowed_Date)
 ```
 
