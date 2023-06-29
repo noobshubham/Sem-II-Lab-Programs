@@ -125,8 +125,7 @@ ER-Diagram:
 <br>
 
 # Enrollment
-6. Consider the following database of student enrollment in courses and books adopted for each course. 
-----------------
+Consider the following database of student enrollment in courses and books adopted for each course. 
 - STUDENT (regno#: string, name: string, major: string, bdate: date) 
 - COURSE (course#: int, cname: string, dept: string) 
 - TEXT (book_ISBN#: int, book_title: string, publisher: string, author: string) 
