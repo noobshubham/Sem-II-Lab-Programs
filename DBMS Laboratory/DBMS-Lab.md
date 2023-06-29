@@ -14,7 +14,7 @@ Create the following tables with properly specifying Primary Keys, Foreign Keys 
 - BORROW (USN, Bookid, Borrowed_Date)
 
 <details>
-    <summary>Execute the following Queries:</summary>
+    <summary>Execute the following Queries</summary>
 
 <ol type="i">
 <li>List the details of Students who are all studying in the 2nd sem MCA.</li>
@@ -34,7 +34,9 @@ Consider the following Schema:
 -----------------------
 - STUDENT (USN, name, date_of_birth, branch, mark1, mark2, mark3, total, GPA)
 
-Execute the following Queries:
+<details>
+    <summary>Execute the following Queries</summary>
+
 <ol type="i">
 <li> Update the column total by adding the columns mark1, mark2, mark3.</li> 
 <li> Find the GPA score of all the students.</li> 
@@ -45,6 +47,8 @@ Execute the following Queries:
 <li> Find the students whose name ends with the alphabets "AR".</li> 
 <li> Delete the student details whose USN is given as 1001.</li>
 </ol>
+
+</details>
 
 
 # Cricket
@@ -58,7 +62,9 @@ ER-Diagram:
 •	Stadium (Stadium_id, Stadium_name, Address)
 •	Match (Match_id, Team_id_1, Team_id_2, Date, Time, Winner_id)
 •	Award (Match_id, Player_id)
-Execute the following Queries: 
+<details>
+    <summary>Execute the following Queries</summary>
+
 <ol type="i">
 <li> Display the youngest player (in terms of age) Name, Team name, and age in which he belongs to the tournament.</li> 
 <li> List the details of the stadium where the maximum number of matches were played.</li> 
@@ -66,6 +72,8 @@ Execute the following Queries:
 <li> Display the Team details who won the maximum matches.</li> 
 <li> Display the team name where all its won matches were played in the same stadium.</li>
 </ol>
+
+</details>
 
 
 # Voters
@@ -76,7 +84,8 @@ Execute the following Queries:
 •	Candidate (Candidate_id, Name, Phone_no, Age, State, Party_id)
 •	Party (Party_id, Party_Name, Party_symbol)
 •	Vote (Voter_id, Candidate_id)
-Execute the following Queries:
+<details>
+    <summary>Execute the following Queries</summary>
 <ol type="i">
 <li> List the details of the candidates who are contesting from more than one constituencies which belong to different states.</li>
 <li> Display the state name having the maximum number of constituencies.</li>
@@ -84,6 +93,8 @@ Execute the following Queries:
 <li> Create a stored procedure to display the number_of_voters in the specified constituency.</li>
 <li> Create a TRIGGER to UPDATE the count of "Number_of_voters" of the respective constituency in "CONSTITUENCY" table, AFTER inserting a tuple into the "VOTERS" table.</li>
 </ol>
+
+</details>
 
 
 # Tourism
@@ -94,7 +105,9 @@ Execute the following Queries:
 •	Tourist (Tourist_id, Name, Age, Country_id)
 •	Tourist_Email (Tourist_id, Email)
 •	Visit (Tourist_id, Tourist_Place_id, Visit_date)
-Execute the following Queries:
+<details>
+    <summary>Execute the following Queries</summary>
+
 <ol type="i">
 <li> List the state name which has the maximum number of tourist places. </li>
 <li> List the details of the tourist place where the maximum number of tourists visited. </li>
@@ -103,6 +116,7 @@ Execute the following Queries:
 <li> Display the details of the tourist place visited by the tourists of all countries.</li>
 </ol>
 
+</details>
 
 # Enrollment
 6. Consider the following database of student enrollment in courses and books adopted for each course. 
@@ -113,7 +127,9 @@ Execute the following Queries:
 - ENROLL (regno#: string, course#: int, sem: int, marks: int) 
 - BOOK_ADOPTION (course#: int, sem: int, book_ISBN: int)
 
-Execute the following Queries: 
+<details>
+    <summary>Execute the following Queries</summary>
+
 <ol type="i">
 <li> Create the above tables by properly specifying the primary keys and the foreign keys</li>
 <li> Enter at least 7 to 10 records to each table. Execute SQL
@@ -128,4 +144,4 @@ queries for the following requirements:</li>
 <li> Find out the course name to which the maximum number of students have joined.</li>
 </ol>
 
-
+</details>
