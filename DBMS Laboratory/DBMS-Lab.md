@@ -3,10 +3,10 @@ DBMS Lab Programs
 
 a database containing database difficulties
 
+<br>
 
 # College
 Create the following tables with properly specifying Primary Keys, Foreign Keys & Solve the following Queries.
--------------------------------------
 - BRANCH (Branchid, Branchname, HOD) 
 - STUDENT (USN, Name, Address, Branchid, sem) 
 - BOOK (Bookid, Bookname, Authorid, Publisher, Branchid) 
@@ -29,6 +29,7 @@ Create the following tables with properly specifying Primary Keys, Foreign Keys 
 
 </details>
 
+<br>
 
 Consider the following Schema:
 -----------------------
@@ -50,6 +51,7 @@ Consider the following Schema:
 
 </details>
 
+<br>
 
 # Cricket
 Design an ER-Diagram for the following scenario, Convert the same into a relational model and then solve the following Queries:
@@ -75,6 +77,7 @@ ER-Diagram:
 
 </details>
 
+<br>
 
 # Voters
 4.	ER-Diagram and Queries: ER-Diagram:
@@ -96,6 +99,7 @@ ER-Diagram:
 
 </details>
 
+<br>
 
 # Tourism
 5.	ER-Diagram and Queries: ER-Diagram:
@@ -117,6 +121,8 @@ ER-Diagram:
 </ol>
 
 </details>
+
+<br>
 
 # Enrollment
 6. Consider the following database of student enrollment in courses and books adopted for each course. 
