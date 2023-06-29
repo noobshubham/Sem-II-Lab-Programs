@@ -74,6 +74,7 @@ identified using Stadium_id, having a stadium_name, Address (involves city, area
 • Stadium (Stadium_id, Stadium_name, Address)
 • Match (Match_id, Team_id_1, Team_id_2, Date, Time, Winner_id)
 • Award (Match_id, Player_id)
+
 </details>
 
 
