@@ -12,7 +12,8 @@ BRANCH (Branchid, Branchname, HOD)```
 ```STUDENT (USN, Name, Address, Branchid, sem)``` 
 ```BOOK (Bookid, Bookname, Authorid, Publisher, Branchid)``` 
 ```AUTHOR (Authorid, Authorname, Country, age)``` 
-```BORROW (USN, Bookid, Borrowed_Date)```
+```BORROW (USN, Bookid, Borrowed_Date)
+```
 
 <details>
     <summary>Execute the following Queries</summary>
