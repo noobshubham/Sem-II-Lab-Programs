@@ -101,6 +101,16 @@ Award (Match_id, Player_id)
 <br>
 
 # Voters
+A country wants to conduct an election for the parliament. A country having many constituencies. Each constituency is
+identified uniquely by Constituency_id, having the Name, belongs to a state,Number_of_voters. A constituency can
+have many voters. Each voter is uniquely identified by using Voter_id, having the Name, age, address (involves
+Houseno,city,state,pincode). Each voter belongs to only one constituency. There are many candidates contesting in the
+election. Each candidates are uniquely identified by using candidate_id, having Name, phone_no, age, state. A
+candidate belongs to only one party.Thereare many parties. Each party is uniquelyidentified by using Party_id, having
+Party_Name,Party_symbol. A candidate can contest from many constituencies under a same party. A party can have
+many candidates contesting from different constituencies. No constituency having the candidates from the same party.
+A constituency can have many contesting candidates belongs to different parties. Each voter votes only one candidate
+of his/her constituencty
 4.	ER-Diagram and Queries: ER-Diagram:
 •	Country (Country_id, Country_name)
 •	Constituency (Constituency_id, Name, State, Number_of_voters)
