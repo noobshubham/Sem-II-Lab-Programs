@@ -1,7 +1,7 @@
 DBMS Lab Programs
 ===================
 
-a database containing database difficulties
+a database containing database problems
 
 <br>
 
