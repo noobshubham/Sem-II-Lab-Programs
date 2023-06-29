@@ -124,12 +124,11 @@ Award (Match_id, Player_id)
 
 # Tourism
 Design an ER-diagram for the following scenario, Convert the same into a relational model, normalize Relations into a
-suitable Normal form and then solve the following queries. A country can have many Tourist places . Each Tourist place
-is identified by using tourist_place_id, having a name, belongs to a state, Number of kilometers away from the
-02.03.2021 updated 52/ 104 capital city of that state,history. There are many Tourists visits tourist places every year.
-Each tourist is identified uniquely by using Tourist_id, having a Name, age, Country and multiple emailids. A tourist visits
-many Tourist places, it is also required to record the visted_date in the database. A tourist can visit a Tourist place
-many times at different dates. A Tourist place can be visited by many tourists either in the same date or at different
+suitable Normal form and then solve the following queries. 
+- A country can have many Tourist places. 
+- Each Tourist place is identified by using tourist_place_id, having a name, belongs to a state, Number of kilometers away from the 02.03.2021 updated 52/ 104 capital city of that state, history. There are many Tourists visits tourist places every year.
+- Each tourist is identified uniquely by using Tourist_id, having a Name, age, Country and multiple emailids. 
+- A tourist visits many Tourist places, it is also required to record the visted_date in the database. A tourist can visit a Tourist place many times at different dates. A Tourist place can be visited by many tourists either in the same date or at different
 dates.
 
 <details>
