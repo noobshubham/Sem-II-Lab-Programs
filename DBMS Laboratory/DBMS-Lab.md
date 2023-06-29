@@ -31,8 +31,9 @@ Create the following tables with properly specifying Primary Keys, Foreign Keys 
 
 <br>
 
+# Student
+
 Consider the following Schema:
------------------------
 - STUDENT (USN, name, date_of_birth, branch, mark1, mark2, mark3, total, GPA)
 
 <details>
