@@ -10,6 +10,7 @@ Online SQL Editor
 - [Oracle Live Share](https://livesql.oracle.com/apex/f?p=590:1000)
 - [Programiz SQL Editor](https://www.programiz.com/sql/online-compiler/)
 - [W3School SQL Editor](https://www.w3schools.com/sql/trysql.asp?filename=trysql_editor)
+- [SQL Online IDE](https://sqliteonline.com/)
 
 SQL Basics Course
 - [SQL Basics by Programiz](https://programiz.pro/course/sql-basics) (Recommended)
