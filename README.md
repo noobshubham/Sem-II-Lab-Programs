@@ -7,7 +7,7 @@ Sem II Lab Programs
 [DBMS Roadmap by Love Babbar](https://whimsical.com/dbms-roadmap-by-love-babbar-FmUi8ffVop33t3MmpVxPCo)
 
 Online SQL Editor
-- [Oracle Live Share](https://livesql.oracle.com/apex/f?p=590:1000)
+- [Oracle Live Share](https://livesql.oracle.com/apex/f?p=590:1000) (Recommended)
 - [Programiz SQL Editor](https://www.programiz.com/sql/online-compiler/)
 - [W3School SQL Editor](https://www.w3schools.com/sql/trysql.asp?filename=trysql_editor)
 - [SQL Online IDE](https://sqliteonline.com/)
