@@ -29,6 +29,8 @@ BORROW (USN, Bookid, Borrowed_Date)
 <li>List the details of students who borrowed books which are all published by the same publisher.</li>
 </ol>
 
+> [The answer to all of queries can be found right here.](https://pasty.lus.pm/6wxBcU)
+
 </details>
 
 <br>
@@ -55,7 +57,7 @@ STUDENT (USN, name, date_of_birth, branch, mark1, mark2, mark3, total, GPA)
 <li> Delete the student details whose USN is given as 1001.</li>
 </ol>
 
-[The answer to all of queries is right here.](https://pasty.lus.pm/IBNwT2)
+> [The answer to all of queries can be found right here.](https://pasty.lus.pm/HuZ18T)
 
 </details>
 
