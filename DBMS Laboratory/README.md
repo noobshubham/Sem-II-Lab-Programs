@@ -100,6 +100,8 @@ Award (Match_id, Player_id)
 <li> Display the team name where all its won matches were played in the same stadium.</li>
 </ol>
 
+> [The answer to all of queries can be found right here.](https://pasty.lus.pm/uDLmwx)
+
 </details>
 
 <br>
