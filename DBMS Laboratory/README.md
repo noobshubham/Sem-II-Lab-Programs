@@ -178,6 +178,9 @@ Visit (Tourist_id, Tourist_Place_id, Visit_date)
 <li> Display the details of the tourist place visited by the tourists of all countries.</li>
 </ol>
 
+
+> [The answer to all of queries can be found right here.](https://pasty.lus.pm/PFED5F)
+
 </details>
 
 <br>
