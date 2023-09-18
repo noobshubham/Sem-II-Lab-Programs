@@ -141,6 +141,8 @@ Vote (Voter_id, Candidate_id)
 <li> Create a TRIGGER to UPDATE the count of "Number_of_voters" of the respective constituency in "CONSTITUENCY" table, AFTER inserting a tuple into the "VOTERS" table.</li>
 </ol>
 
+> [The answer to all of queries can be found right here.](https://pasty.lus.pm/iMCrVE)
+
 </details>
 
 <br>
