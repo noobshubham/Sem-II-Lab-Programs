@@ -214,4 +214,6 @@ queries for the following requirements:</li>
 <li> Find out the course name to which the maximum number of students have joined.</li>
 </ol>
 
+> [The answer to all of queries can be found right here.](https://pasty.lus.pm/WAaqCc)
+
 </details>
